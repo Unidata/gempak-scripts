@@ -1,0 +1,38 @@
+! COLTBL.XWP
+!
+! XWP and XW color table for cloud background
+!
+!Color name    Abrev   Red  Green   Blue  X color name
+WHITE           WHI      0      0      0  101
+VANILLA         VAN     78      0      0  1
+RED             RED     53      0      0  2
+GREEN           GRE      0      0      0  3
+BLUE            BLU     56     56     56  4
+YELLOW          YEL     83     83     83  5
+CYAN            CYA    116    116    116  6
+MAGENTA         MAG    140    140    140  7
+BROWN           BRO    181    181    181  8
+CORAL           COR    204    204    204  9
+APRICOT         APR    255    255    255  10
+PINK            PIN    204    255    255  11
+DKPINK          DKP    106      0      0  12
+MDVIOLET        MDV    255    255    255  13
+MAROON          MAR    205      0      0  14
+FIREBRIC        FIR    249      0    167  15
+ORRED           ORR    245      0    249  16
+ORANGE          ORA    158      0    249  17
+DKORANGE        DKO    180    100    225  18
+GOLD            GOL    201    201    201  19
+DKYELLOW        DKY    120      0    120  20
+LWNGREEN        LWN    184      0    184  21
+MDGREEN         MDG    248      0    248  22
+DKGREEN         DKG      3     51      8  23
+GRPBLUE         GRP      0    152    152  24
+LTBLUE          LTB      0    200    200  25
+SKY             SKY      0    137    184  26
+MDCYAN          MDC      0    238    238  27
+VIOLET          VIO    127    153    242  28
+PURPLE          PUR    242    149    127  29
+PLUM            PLU    130    130    130  30
+BLACK           BLA    255    255    255  31
+WHITE           WHI      0      0      0  32

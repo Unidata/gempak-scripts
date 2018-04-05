@@ -1,0 +1,38 @@
+! COLTBL.XWP
+!
+! XWP and XW color table for scp background
+!
+!Color name    Abrev   Red  Green   Blue  X color name
+WHITE           WHI      0      0      0  black101
+VANILLA         VAN    255    228    220  bisque1
+RED             RED    255      0      0  red2
+GREEN           GRE      0    255      0  green3
+BLUE            BLU      0      0    255  blue4
+YELLOW          YEL     28    146    252  lightb5wind
+CYAN            CYA      4    178    236  cyan6
+MAGENTA         MAG      4    238    236  drkcy7
+BROWN           BRO    140    106    204  lightpurp8
+CORAL           COR     50    255     31  purple9
+APRICOT         APR    151    253     23  drkpurp10
+PINK            PIN    252    245     15  vortstart11
+DKPINK          DKP    251    128      7  IndianRed12
+MDVIOLET        MDV    249      5      0  firebrick13
+MAROON          MAR    249      0     80  red14
+FIREBRIC        FIR    249      0    167  red15
+ORRED           ORR    245      0    249  OrangeRed16
+ORANGE          ORA    158      0    249  vortend17
+DKORANGE        DKO    180    100    225  orange18
+GOLD            GOL    201    201    201  gold19
+DKYELLOW        DKY    120      0    120  yellow20
+LWNGREEN        LWN    184      0    184  chartreuse21
+MDGREEN         MDG    248      0    248  green22
+DKGREEN         DKG      0    100     96  green23
+GRPBLUE         GRP      0    152    152  green24
+LTBLUE          LTB      0    200    200  DodgerBlue25
+SKY             SKY      0    178    238  DeepSkyBlue26
+MDCYAN          MDC      0    238    238  cyan27
+VIOLET          VIO    127    153    242  lightr28
+PURPLE          PUR    242    149    127  lightb29
+PLUM            PLU    130    130    130  grey30
+BLACK           BLA    255    255    255  white31
+WHITE           WHI      0      0      0  black32

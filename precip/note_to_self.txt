@@ -1,0 +1,2 @@
+The astute observer will notice that precwld.csh and precaccwld.csh have NOT been re-created in PHP.
+The reason is prec.php and precacc.php should work for the WLD sector, so separate scripts are no longer needed.

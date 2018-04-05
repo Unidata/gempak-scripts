@@ -1,0 +1,38 @@
+! COLTBL.XWP
+!
+! XWP and XW color table for pwat background
+!
+!Color name    Abrev   Red  Green   Blue  X color name
+WHITE           WHI      0      0      0  black101
+COLOR01         ABV    185    160    100  1
+COLOR02         ABV    190    169    114  2
+COLOR03         ABV    195    179    129  3
+COLOR04         ABV    200    189    144  4
+COLOR05         ABV    206    199    159  5
+COLOR06         ABV    211    209    174  6
+COLOR07         ABV    216    219    189  7
+COLOR08         ABV    222    229    204  8
+COLOR09         ABV    196    212    182  9
+COLOR10         ABV    171    196    161  10
+COLOR11         ABV    146    180    140  11
+COLOR12         ABV    121    164    119  12
+COLOR13         ABV     95    148     98  13
+COLOR14         ABV     70    132     77  14
+COLOR15         ABV     45    116     56  15
+COLOR16         ABV     20    100     35  16
+ORANGE          ORA     70    117    140  17
+DKORANGE        DKO     51     95    117  18
+GOLD            GOL    197    197     14  19
+DKYELLOW        DKY    238    238     14  20
+LWNGREEN        LWN    233    111     88  21
+CYAN            CYA    200    175    105  22
+YELLOW          YEL    185    160    100  23
+GRPBLUE         GRP    230    225    180  24
+LTBLUE          LTB    176      0    176  25
+SKY             SKY    240      0      0  26
+MDCYAN          MDC      0      0    240  27
+VIOLET          VIO    140      0      0  28
+PURPLE          PUR    200    200    200  29
+PLUM            PLU    130    130    130  30
+BLACK           BLA    255    255    255  31
+WHITE           WHI      0      0      0  32

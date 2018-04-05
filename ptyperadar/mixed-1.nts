@@ -1,0 +1,5 @@
+GDPFUN  mul(cref@0%NONE,WXTP@0%none)                                                                                                           
+TYPE    f                                                                                                                               
+FINT    5;10;15;20;25;30;35;40;45                                                                                                       
+FLINE   0;10;11;12;13;14;15;16;17;18                                                                                                     
+CLRBAR  31//LR/0.85;0.05                                                                                                                

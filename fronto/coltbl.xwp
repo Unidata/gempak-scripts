@@ -1,0 +1,38 @@
+! COLTBL.XWP
+!
+! XWP and XW color table for speeds background
+!
+!Color name    Abrev   Red  Green   Blue  X color name
+WHITE           WHI      0      0      0  black101
+COLOR01         ABV     59     59     59  1
+COLOR02         ABV     84     84     84  2
+COLOR03         ABV     98     98     98  3
+COLOR04         ABV    122    122    122  4
+COLOR05         ABV    133    133    133  5
+COLOR06         ABV    148    148    148  6
+COLOR07         ABV    163    163    163  7
+COLOR07         ABV    180    180    180  8
+COLOR09         ABV    195    195    195  9
+COLOR10         ABV    211    211    211  10
+COLOR11         ABV    225    225    225  11
+COLOR12         ABV    255    255    255  12
+COLOR13         ABV      0    230    215  13
+COLOR14         ABV     20    230    100  14
+COLOR15         ABV     40    220     40  15
+COLOR16         ABV    120    240     40  16
+COLOR17         ABV    200    240     20  17
+COLOR18         ABV    240    240      0  18
+COLOR19         ABV    240    190      0  19
+COLOR20         ABV    240    130      0  20
+COLOR21         ABV    240     80      0  21
+COLOR22         ABV    225     40      0  22
+COLOR23         ABV    200      0      0  23
+COLOR24         ABV    230      0      0  24
+COLOR25         ABV    225     66    153  25
+COLOR26         ABV    225    103    170  26
+COLOR27         ABV    245    143    245  27
+COLOR28         ABV    255    184    255  28
+COLOR29         ABV    197    197    197  29
+COLOR30         ABV    205    205    205  30
+BLACK           BLA    255    255    255  white31
+WHITE           WHI      0      0      0  black32

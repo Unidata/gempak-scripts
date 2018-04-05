@@ -1,0 +1,38 @@
+! COLTBL.XWP
+!
+! XWP and XW color table for radar background
+!
+!Color name    Abrev   Red  Green   Blue  X color name
+WHITE           WHI      0      0      0  white101
+VANILLA         VAN    255    228    220  bisque1
+RED             RED    255      0      0  red2
+GREEN           GRE      0    255      0  green3
+BLUE            BLU      0      0    255  blue4
+YELLOW          YEL     28    146    252  lightb5wind
+CYAN            CYA      150  180     210  cyan6
+MAGENTA         MAG      0     76     150  drkcy7
+BROWN           BRO      0    130      0  lightpurp8
+CORAL           COR      0    170      0  purple9
+APRICOT         APR     10    210      0  drkpurp10
+PINK            PIN     50    255      0  vortstart11
+DKPINK          DKP    180    255      0  IndianRed12
+MDVIOLET        MDV    255    255      0   firebrick13
+MAROON          MAR    210    175      0   red14
+FIREBRIC        FIR    255      0      0   red15
+ORRED           ORR    150      0      0  OrangeRed16
+ORANGE          ORA    190    190    190  vortend17
+DKORANGE        DKO    150      0    150 orange18
+GOLD            GOL    255      0    255  gold19
+DKYELLOW        DKY    255    144      0  yellow20
+LWNGREEN        LWN    184      0    184  chartreuse21
+MDGREEN         MDG    248      0    248  green22
+DKGREEN         DKG      0    100     96  green23
+GRPBLUE         GRP      0    152    152  green24
+LTBLUE          LTB      0    200    200  DodgerBlue25
+SKY             SKY      0    178    238  DeepSkyBlue26
+MDCYAN          MDC      0    238    238  cyan27
+VIOLET          VIO    127    153    242  lightr28
+PURPLE          PUR    242    149    127  lightb29
+PLUM            PLU    190    190    190  grey30
+BLACK           BLA    255    255    255  white31
+WHITE           WHI      0      0      0  black32

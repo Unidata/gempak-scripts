@@ -1,0 +1,38 @@
+! COLTBL.XWP
+!
+! Default XWP and XW color table 
+!
+!Color name    Abrev   Red  Green   Blue  X color name
+BLACK           BLA      0      0      0  101
+COLOR01         ABV      0      0    255  1
+COLOR02         ABV     19     23    255  2
+COLOR03         ABV     38     46    255  3
+COLOR04         ABV     57     69    255  4
+COLOR05         ABV     76     92    255  5
+COLOR06         ABV     96    116    255  6
+COLOR07         ABV    115    139    255  7
+COLOR08         ABV    134    162    255  8
+COLOR09         ABV    153    185    255  9
+COLOR10         ABV    173    209    255  10
+COLOR11         ABV    255    214    209  11
+COLOR12         ABV    255    190    185  12
+COLOR13         ABV    255    166    162  13
+COLOR14         ABV    255    142    139  14
+COLOR15         ABV    255    118    116  15
+COLOR16         ABV    255     95     92  16
+COLOR17         ABV    255     71     69  17
+COLOR18         ABV    255     47     46  18
+COLOR19         ABV    255     23     23  19
+COLOR20         ABV    255      0      0  20
+LWNGREEN        LWN    148      0     10  21
+MDGREEN         MDG    248      0    248  22
+DKGREEN         DKG    184      0    248  23
+GRPBLUE         GRP    120      0    248  24
+LTBLUE          LTB    180      0    180  25
+SKY             SKY    150      0    150  26
+MDCYAN          MDC    195    125      0  27
+VIOLET          VIO    209    209    209  28
+PURPLE          PUR    230    230    230  29
+PLUM            PLU    139      0    139  30
+WHITE           WHI    255    255    255  31
+BLACK           BLA      0      0      0  32

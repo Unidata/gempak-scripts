@@ -1,0 +1,38 @@
+! COLTBL.XWP
+!
+! Default XWP and XW color table 
+!
+!Color name    Abrev   Red  Green   Blue  X color name
+BLACK           BLA      0      0      0  101
+VANILLA         VAN    235    235    235  1
+MAROON          MAR    100    200    255  2
+FIREBRIC        FIR    0      175    250  3
+ORRED           ORR    0      145    210  4
+ORANGE          ORA    0       75    116  5
+CYAN            CYA      0    150      0  6
+MAGENTA         MAG      0    200      0  7
+MDVIOLET        MDV    240    220      0  8
+MAROON          MAR    240    130      0  9
+ORRED           ORR    240      0      0  10
+FIREBRIC        FIR    150      0      0  11
+DKORANGE        DKO    240      0    240  12
+ORANGE          ORA    150      0    150  13
+DKYELLOW        DKY      0      0    240  14
+GOLD            GOL      0      0    150  15
+MDGREEN         MDG    180    180    180  16
+LWNGREEN        LWN    120    120    120  17
+DKGREEN         DKG    240      0    240  18
+GRPBLUE         GRP    210      0    210  19
+DKYELLOW        DKY    150      0      0  20
+LWNGREEN        LWN    120      0      0  21
+MDGREEN         MDG     90      0      0  22
+DKGREEN         DKG    240      0    240  23
+GRPBLUE         GRP    210      0    210  24
+LTBLUE          LTB    180      0    180  25
+SKY             SKY    150      0    150  26
+MDCYAN          MDC    180    180    180  27
+VIOLET          VIO    209    209    209  28
+PURPLE          PUR    230    230    230  29
+PLUM            PLU    139      0    139  30
+WHITE           WHI    255    255    255  31
+BLACK           BLA      0      0      0  32

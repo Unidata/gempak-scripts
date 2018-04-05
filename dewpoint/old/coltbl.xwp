@@ -1,0 +1,38 @@
+! COLTBL.XWP
+!
+! XWP and XW color table for pwat background
+!
+!Color name    Abrev   Red  Green   Blue  X color name
+WHITE           WHI      0      0      0  black101
+VANILLA         VAN     76     60     45  1
+RED             RED    125    104     87  2
+GREEN           GRE    176    155    136  3
+BLUE            BLU    196    234    196  4
+YELLOW          YEL    168    234    168  5
+CYAN            CYA    120    200    120  6
+MAGENTA         MAG     80    170     80  7
+BROWN           BRO     40    155     40  8
+CORAL           COR     20    140     20  9
+APRICOT         APR      0    130      0  10
+PINK            PIN      0    110      0  11
+DKPINK          DKP      5     88      5  12
+MDVIOLET        MDV    182    182    253  13
+MAROON          MAR    150    150    217  14
+FIREBRIC        FIR    109    109    171  15
+ORRED           ORR     71     71    129  16
+ORANGE          ORA     50     50    100  17
+DKORANGE        DKO    159    159     14  18
+GOLD            GOL    197    197     14  19
+DKYELLOW        DKY    238    238     14  20
+LWNGREEN        LWN    233    111     88  21
+MDGREEN         MDG    175     62     54  22
+DKGREEN         DKG    135     18     26  23
+GRPBLUE         GRP    119      0    119  24
+LTBLUE          LTB    176      0    176  25
+SKY             SKY    193      0    193  26
+MDCYAN          MDC      0      0    240  27
+VIOLET          VIO    240      0      0  28
+PURPLE          PUR    242    149    127  29
+PLUM            PLU    130    130    130  30
+BLACK           BLA    255    255    255  31
+WHITE           WHI      0      0      0  32

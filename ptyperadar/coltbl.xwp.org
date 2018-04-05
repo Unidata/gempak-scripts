@@ -1,0 +1,38 @@
+! COLTBL.XWP
+!
+! XWP and XW color table for stp background
+!
+!Color name    Abrev   Red   Green   Blue  X color name
+WHITE           WHI    255   255     255   101
+VANILLA         VAN    0     255     1     1
+RED             RED    0     212     0     2
+GREEN           GRE    0     148     0     3
+BLUE            BLU    0     108     0     4
+LTBLUE          LTB    0     55      0     5
+YELLOW          YEL    255   255     1     6
+CYAN            CYA    255   158     0     7
+MAGENTA         MAG    255   11      1     8
+BROWN           BRO    254   45      128   9
+CORAL           COR    254   157     252   10
+APRICOT         APR    236   119     226   11
+PINK            PIN    218   78      201   12
+DKPINK          DKP    199   39      175   13
+MDVIOLET        MDV    171   1       136   14
+MAROON          MAR    189   18      112   15
+FIREBRIC        FIR    208   34      87    16
+ORRED           ORR    228   52      63    17
+SKY             SKY    247   70      37    18
+ORANGE          ORA    1     255     255   19
+DKORANGE        DKO    1     212     255   20
+GOLD            GOL    0     170     255   21
+DKYELLOW        DKY    0     106     238   22
+LWNGREEN        LWN    0     64      208   23
+MDGREEN         MDG    0     21      176   24
+DKGREEN         DKG    43    0       154   25
+GRPBLUE         GRP    171   1       136   26
+MDCYAN          MDC    255   0       128   27
+VIOLET          VIO    127   153     242   28
+PURPLE          PUR    242   149     127   29
+PLUM            PLU    130   130     130   30
+BLACK           BLA    255   255     255   31
+WHITE           WHI    0     0       0     32

@@ -1,0 +1,38 @@
+! COLTBL.XWP
+!
+! XWP and XW color table for 1kmhel background
+!
+!Color name    Abrev   Red  Green   Blue  X color name
+WHITE           WHI      0      0      0  black101
+VANILLA         VAN    255    228    220  bisque1
+RED             RED    255      0      0  red2
+GREEN           GRE      0    255      0  green3
+BLUE            BLU      0      0    255  blue4
+YELLOW          YEL     28    146    252  lightb5wind
+CYAN            CYA      4    178    236  cyan6
+MAGENTA         MAG      4    238    236  drkcy7
+BROWN           BRO    140    106    204  lightpurp8
+CORAL           COR      0      0	 176  purple9
+APRICOT         APR     72     76	 248  drkpurp10
+PINK            PIN      0    176	   0  vortstart11
+DKPINK          DKP     72    252	  72  IndianRed12
+MDVIOLET        MDV    176    176	   0  firebrick13
+MAROON          MAR    248    252	  72  red14
+FIREBRIC        FIR    176      0	   0  red15
+ORRED           ORR    248     76	  72  OrangeRed16
+ORANGE          ORA    176    176	 176  vortend17
+DKORANGE        DKO    235    235	 235  orange18
+GOLD            GOL    201    201    201  gold19
+DKYELLOW        DKY    120      0    120  yellow20
+LWNGREEN        LWN    184      0    184  chartreuse21
+MDGREEN         MDG    248      0    248  green22
+DKGREEN         DKG      0    100     96  green23
+GRPBLUE         GRP      0    152    152  green24
+LTBLUE          LTB      0    200    200  DodgerBlue25
+SKY             SKY      0    178    238  DeepSkyBlue26
+MDCYAN          MDC      0    238    238  cyan27
+VIOLET          VIO    127    153    242  lightr28
+PURPLE          PUR    242    149    127  lightb29
+PLUM            PLU    130    130    130  grey30
+BLACK           BLA    255    255    255  white31
+WHITE           WHI      0      0      0  black32

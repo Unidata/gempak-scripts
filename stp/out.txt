@@ -1,0 +1,115 @@
+ GDFILE    Grid file                         $GEMPAK/data/hrcbob.grd
+ GDOUTF    Output grid file                   
+ GFUNC     Scalar grid                       TMPC
+ GDATTIM   Grid date/time                    LAST
+ GLEVEL    Grid level                        500
+ GVCORD    Grid vertical coordinate          PRES
+ GRDNAM    Grid parameter name                
+ GRDTYP    Diagnostic grid type (Scalar/Vec  S
+ GPACK     Packing type/number of bits        
+ GRDHDR    Grid Header Flags                  
+ PROJ      Map projection/angles/margins|dr  MER
+ GRDAREA   Area covered by grid               
+ KXKY      Number of grid points in x;y      10;10
+ MAXGRD    Maximum number of grids           200
+ CPYFIL    Grid file whose navigation is to   
+ ANLYSS    Grid analysis block               4/2;2;2;2
+ Parameters requested: GDFILE,GDOUTF,GFUNC,GDATTIM,GLEVEL,GVCORD,GRDNAM,
+ GRDTYP,GPACK,GRDHDR,PROJ,GRDAREA,KXKY,MAXGRD,CPYFIL,ANLYSS.
+ GEMPAK-GDDIAG> GEMPAK-GDDIAG> GEMPAK-GDDIAG> GEMPAK-GDDIAG> GEMPAK-GDDIAG> GEMPAK-GDDIAG> GEMPAK-GDDIAG> GEMPAK-GDDIAG> GEMPAK-GDDIAG> GEMPAK-GDDIAG> GEMPAK-GDDIAG> GEMPAK-GDDIAG> GEMPAK-GDDIAG> GEMPAK-GDDIAG> GEMPAK-GDDIAG> GEMPAK-GDDIAG> GEMPAK-GDDIAG> [FL -1]  Cannot open file /home/data/gempak/model/4km//home/data/gempak/model/4km.
+ [DM -2]  File /home/data/gempak/model/4km//home/data/gempak/model/4km cannot be opened.
+ [GD -2]  File /home/data/gempak/model/4km//home/data/gempak/model/4km cannot be opened.
+ [DG -73]  Memory allocation failed.
+ Parameters requested: GDFILE,GDOUTF,GFUNC,GDATTIM,GLEVEL,GVCORD,GRDNAM,
+ GRDTYP,GPACK,GRDHDR,PROJ,GRDAREA,KXKY,MAXGRD,CPYFIL,ANLYSS.
+ GEMPAK-GDDIAG> GEMPAK-GDDIAG> GDFILE    Grid file                         NAM4KM | 18
+ GDATTIM   Grid date/time                    f003
+ GLEVEL    Grid level                        0
+ GVCORD    Grid vertical coordinate          NONE
+ PANEL     Panel loc/color/dash/width/regn   0
+ SKIP      Skip_cntr/skip_plt_x;skip_plt_y   0
+ SCALE     Scalar scale / vector scale       999
+ GDPFUN    Scalar grid or vector grid funct  TMPC
+ TYPE      GDPLOT2 function processing type  C
+ CONTUR    Subbox/smooth                     0
+ CINT      Contour interval/min/max          0
+ LINE      Color/type/width/label/smth/fltr  3
+ FINT      Fill interval/min/max             0
+ FLINE     Fill colors/fill types            10-20
+ HILO      Color/symbol/rng/rad/cnt/intp      
+ HLSYM     HILO txt size/posn/font/wdth/hw    
+ CLRBAR    Color/ornt/anch/x;y/ln;wd/freq|t   
+ WIND      Wind symbol/siz/wdth/typ/hdsz     BM1
+ REFVEC    Mag;x;y;txtsiz/font/wdth/HW;labl   
+ TITLE     Title color/line/title            1
+ TEXT      Size/fnt/wdth/brdr/N-rot/just/hw  1
+ CLEAR     Clear screen flag                 YES
+ GAREA     Graphics area                     WV
+ IJSKIP    Iskp;Istrt;Istp/Jskp;Jstrt;Jstp    
+ PROJ      Map projection/angles/margins|dr   
+ MAP       Map color/dash/width/filter flag  1
+ MSCALE    fgc;bgc;mask/units/lat;hide/valu  0
+ LATLON    Line color/dash/width/freq/inc/l   
+ DEVICE    Device|name|x size;y size|color   XW
+ STNPLT    Txtc/txt attr|marker attr|stnfil   
+ SATFIL    Satellite image filename(s)        
+ RADFIL    Radar image filename(s)            
+ IMCBAR    Color/ornt/anch/x;y/ln;wd/freq     
+ LUTFIL    Enhancement lookup table filenam   
+ STREAM    lines/arrows/stop/slow/scale       
+ POSN      Position / Text format            0
+ COLORS    Color list                        1
+ MARKER    Marker color/type/size/width/hw   0
+ GRDLBL    Grid point label color            0
+ FILTER    Filter data factor                YES
+ BOXLIN    Box color/type/width/label/smth/   
+ REGION    Region type                       VIEW
+ TXTCOL    Text colors                        
+ TXTYPE    Text size/fnt/wdth/brdr/N-rot/ju   
+ TXTFIL    Text filename or LOGO|size|mode    
+ TXTLOC    Text location                      
+ COLUMN    Number of columns                 1
+ SHAPE     Object to draw                     
+ INFO      Shape information                  
+ LOCI      Point(s) associated with SHAPE     
+ ANOTLN    Annotation line color/type/width   
+ ANOTYP    Annotation fill type: C/F          
+ Parameters requested: GDFILE,GDATTIM,GLEVEL,GVCORD,PANEL,SKIP,SCALE,GDPFUN,
+ TYPE,CONTUR,CINT,LINE,FINT,FLINE,HILO,HLSYM,CLRBAR,WIND,REFVEC,TITLE,TEXT,
+ CLEAR,GAREA,IJSKIP,PROJ,MAP,MSCALE,LATLON,DEVICE,STNPLT,SATFIL,RADFIL,
+ IMCBAR,LUTFIL,STREAM,POSN,COLORS,MARKER,GRDLBL,FILTER,BOXLIN,REGION,TXTCOL,
+ TXTYPE,TXTFIL,TXTLOC,COLUMN,SHAPE,INFO,LOCI,ANOTLN,ANOTYP.
+ GEMPAK-GDPLOT3> GEMPAK-GDPLOT3> GEMPAK-GDPLOT3> GEMPAK-GDPLOT3> GEMPAK-GDPLOT3> GEMPAK-GDPLOT3> GEMPAK-GDPLOT3> GEMPAK-GDPLOT3> GEMPAK-GDPLOT3> GEMPAK-GDPLOT3> GEMPAK-GDPLOT3> GEMPAK-GDPLOT3> GEMPAK-GDPLOT3> GEMPAK-GDPLOT3> GEMPAK-GDPLOT3> GEMPAK-GDPLOT3> GEMPAK-GDPLOT3> GEMPAK-GDPLOT3> GEMPAK-GDPLOT3> GEMPAK-GDPLOT3> GEMPAK-GDPLOT3> GEMPAK-GDPLOT3> GEMPAK-GDPLOT3> GEMPAK-GDPLOT3> GEMPAK-GDPLOT3> GEMPAK-GDPLOT3> GEMPAK-GDPLOT3> Number of times =            1
+           1  150121/1800F003
+
+ PARAMETERS FOR GDPLOT : FRAME NUMBER  1 INITIAL PLOT SETTINGS -
+    GDFILE=NAM4KM|18+hrrr-003-us.grd, GDATTIM=150121/1800F003
+    GAREA=19.00;-119.00;47.50;-56.00, PROJ=STR/90;-97;0, MAP=32//1, LATLON=
+    OVERLAY  TYPE       LEVEL           VCORD       GRID FUNCTION
+        1    F          0               NONE        CAPE
+ [DG 7]  Skipping 8 point(s) in both I and J grid index directions.
+ Parameters requested: GDFILE,GDATTIM,GLEVEL,GVCORD,PANEL,SKIP,SCALE,GDPFUN,
+ TYPE,CONTUR,CINT,LINE,FINT,FLINE,HILO,HLSYM,CLRBAR,WIND,REFVEC,TITLE,TEXT,
+ CLEAR,GAREA,IJSKIP,PROJ,MAP,MSCALE,LATLON,DEVICE,STNPLT,SATFIL,RADFIL,
+ IMCBAR,LUTFIL,STREAM,POSN,COLORS,MARKER,GRDLBL,FILTER,BOXLIN,REGION,TXTCOL,
+ TXTYPE,TXTFIL,TXTLOC,COLUMN,SHAPE,INFO,LOCI,ANOTLN,ANOTYP.
+ GEMPAK-GDPLOT3> GEMPAK-GDPLOT3> GEMPAK-GDPLOT3> GEMPAK-GDPLOT3> GEMPAK-GDPLOT3> GEMPAK-GDPLOT3> GEMPAK-GDPLOT3> GEMPAK-GDPLOT3> GEMPAK-GDPLOT3> GEMPAK-GDPLOT3> GEMPAK-GDPLOT3> GEMPAK-GDPLOT3> GEMPAK-GDPLOT3> GEMPAK-GDPLOT3> GEMPAK-GDPLOT3> GEMPAK-GDPLOT3> GEMPAK-GDPLOT3> GEMPAK-GDPLOT3> GEMPAK-GDPLOT3> GEMPAK-GDPLOT3> Number of times =            1
+           1  150121/1800F003
+
+ PARAMETERS FOR GDPLOT : FRAME NUMBER  1 INITIAL PLOT SETTINGS -
+    GDFILE=NAM4KM|18+hrrr-003-us.grd, GDATTIM=150121/1800F003
+    GAREA=19.00;-119.00;47.50;-56.00, PROJ=STR/90;-97;0, MAP=32//1, LATLON=
+    PANEL=0, TITLE=31/-3/FIXED-LAYER SIG TOR / 10m WIND (kts) - COD NEXLAB   WEATHER.COD.EDU
+    OVERLAY  TYPE       LEVEL           VCORD       GRID FUNCTION
+        1    F          0               NONE        MASK(STP+2,SGT(CINS,-100))
+ [DG 7]  Skipping 8 point(s) in both I and J grid index directions.
+ [DG -7]  Input grid STP ^150121/1800F003 @0 %NONE in MASK cannot be found.
+ [GDPLOT 2]  The requested scalar/vector cannot be computed.
+        2    B          0               NONE        KNTV(WND@10%HGHT)
+ [DG 7]  Skipping 8 point(s) in both I and J grid index directions.
+ Parameters requested: GDFILE,GDATTIM,GLEVEL,GVCORD,PANEL,SKIP,SCALE,GDPFUN,
+ TYPE,CONTUR,CINT,LINE,FINT,FLINE,HILO,HLSYM,CLRBAR,WIND,REFVEC,TITLE,TEXT,
+ CLEAR,GAREA,IJSKIP,PROJ,MAP,MSCALE,LATLON,DEVICE,STNPLT,SATFIL,RADFIL,
+ IMCBAR,LUTFIL,STREAM,POSN,COLORS,MARKER,GRDLBL,FILTER,BOXLIN,REGION,TXTCOL,
+ TXTYPE,TXTFIL,TXTLOC,COLUMN,SHAPE,INFO,LOCI,ANOTLN,ANOTYP.
+ GEMPAK-GDPLOT3>
